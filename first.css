@@ -1,3 +1,31 @@
+.a2 {
+    color: white;
+    width: 650px;
+    height: 50px;
+    border-radius: 50px;
+    margin: auto;
+    text-align: left;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.cs004 {
+    background-color: #92a8d1;
+    ;
+    width: 700px;
+    height: 200px;
+    margin: auto;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    
+}
+.cs10 {
+    background-color:#034f84;
+    width: 700px;
+    height: 800px;
+    border-radius: 50px;
+    margin: auto;
+}
 
 .cs7 {
     background-color: #ffffffb6;
@@ -16,13 +44,14 @@
     border-radius: 40%;
     height: 40px;
     width: 40px;
+    padding-top: -100px;
 
     
 }
 .a1 {
     color: white;
     width: 650px;
-    height: 120px;
+    height: 50px;
     border-radius: 50px;
     margin: auto;
     font-size: 20px;
@@ -31,14 +60,14 @@
 
 }
 .cs06 {
-    background-color: #4f80b8b6;
+    background-color:#034f84;
     width: 700px;
     height: 1100px;
     border-radius: 50px;
     margin: auto;
 }
 .cs {
-    background-color: #4f80b8b6;
+    background-color:#034f84;
     width: 700px;
     height: 800px;
     border-radius: 50px;
@@ -46,23 +75,25 @@
 }
 .cs3 {
     background-color: #ffffffb6;
-    width: 350px;
+    width: 300px;
     height: 80px;
     border-radius: 30px;
     margin: auto;
 }
 .cs4 {
-    background-color: rgb(0, 0, 0);
+    background-color: #92a8d1;
+    ;
     width: 700px;
     height: 200px;
     margin: auto;
     border-bottom-left-radius: 50px;
     border-bottom-right-radius: 50px;
+    
 }
 .cs04 {
-    background-color: #4f80b8b6;
+    background-color: #034f84;
     width: 700px;
-    height: 1000px;
+    height: 800px;
     border-radius: 50px;
     margin: auto;
 
@@ -172,3 +203,4 @@
 .ask {
     font-size: 27px;
 }
+
